@@ -1,0 +1,29 @@
+_______________________________________________________________
+cd    D:\Users\E.Ahmed\Desktop\students_clinet_api\serverPage
+npx nodemon page.js
+
+________________________________________________________________
+cd    D:\Users\E.Ahmed\Desktop\students_clinet_api\serverId
+npx nodemon id.js
+
+________________________________________________________________
+cd    D:\Users\E.Ahmed\Desktop\students_clinet_api\serverPost
+npx nodemon  serverpost.js
+
+________________________________________________________________
+cd   D:\Users\E.Ahmed\Desktop\students_clinet_api\serverDelete
+npx nodemon  dele.js
+
+_______________________________________________________________
+cd   D:\Users\E.Ahmed\Desktop\students_clinet_api\serverPull
+npx nodemon   serverput
+
+______________________________________________________________
+cd\
+cd .......
+yarn init 
+yarn add express --save 
+yarn add nodemon --save -dev 
+npx nodemon .....
+
+this is to helping me how to write command Prompt
